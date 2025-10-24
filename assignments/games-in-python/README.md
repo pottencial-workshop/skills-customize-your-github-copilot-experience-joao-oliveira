@@ -2,14 +2,14 @@
 
 ## 🎯 Objective
 
-Construa o clássico jogo da forca (Hangman) em Python para praticar manipulação de strings, loops, condicionais e entrada do usuário. O estudante irá desenvolver lógica de programação e interação com o usuário.
+Neste exercício, você irá construir o clássico jogo da forca (Hangman) em Python, praticando manipulação de strings, uso de loops, condicionais e entrada do usuário. O objetivo é desenvolver lógica de programação e interação com o usuário.
 
 ## 📝 Tasks
 
-### 🛠️	Implementar Jogo da Forca
+### 🛠️	Construir o Jogo da Forca
 
 #### Description
-Crie um programa em Python que permita ao jogador adivinhar uma palavra secreta, letra por letra, antes de esgotar o número de tentativas.
+Implemente um programa em Python que permita ao jogador adivinhar uma palavra secreta, letra por letra, antes de esgotar o número de tentativas.
 
 #### Requirements
 Completed program should:
