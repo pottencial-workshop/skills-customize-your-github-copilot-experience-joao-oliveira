@@ -10,7 +10,7 @@ Desenvolver o jogo da forca (Hangman) em Python para praticar manipulação de s
 - Tempo estimado: 60–120 minutos
 - Pré-requisitos: Noções básicas de Python (variáveis, listas, loops, condicionais, entrada/saída)
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Task 1 — Implementar Jogo da Forca
 
