@@ -1,15 +1,15 @@
-# 🎮 Games em Python
+# 📘 Assignment: Games em Python
 
-## 🎯 Objetivo
+## 🎯 Objective
 
-Desenvolver um jogo de forca (Hangman) em Python, praticando manipulação de strings, uso de loops, condicionais e entrada do usuário.
+Você irá construir o clássico jogo da forca (Hangman) em Python, praticando manipulação de strings, uso de loops, condicionais e entrada do usuário. O objetivo é desenvolver lógica de programação e interação com o usuário.
 
 ## 📝 Tasks
 
 ### 🛠️	Jogo da Forca
 
 #### Description
-Implemente o clássico jogo da forca, onde o jogador tenta adivinhar uma palavra secreta, letra por letra, antes de esgotar o número de tentativas.
+Implemente o jogo da forca, onde o jogador tenta adivinhar uma palavra secreta, letra por letra, antes de esgotar o número de tentativas.
 
 #### Requirements
 Completed program should:
@@ -31,7 +31,7 @@ Tentativas restantes: 6
 Você venceu! A palavra era 'apple'.
 ```
 
-### 🛠️	Desafio Extra: Lista de Palavras Personalizada
+### 🛠️	Lista de Palavras Personalizada
 
 #### Description
 Permita que o usuário insira sua própria lista de palavras para jogar o jogo da forca.
